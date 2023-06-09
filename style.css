@@ -1,0 +1,43 @@
+body
+{
+    font-family:'Raleway', sans-serif;
+    color:salmon;
+    background-color:black;
+}
+
+.header_div
+{
+    background-color:salmon;
+    color:black;
+}
+
+.header_div p
+{
+letter-spacing:2px;
+font-size:12px;
+font-weight:bolder;
+} 
+
+.main_div button
+{
+background-color:salmon;
+color:black;
+letter-spacing:2px;
+font-size:12px;
+font-weight:bolder;
+margin-top:30px;
+}
+
+.copy_right_footer
+{
+background-color:salmon;
+color:black;
+text-align:center;
+bottom:0;
+font-size:20px;
+position:fixed;
+line-height:3;
+text-shadow:10px 10px 10px black;
+width:100%;
+font-weight:bolder;
+}
